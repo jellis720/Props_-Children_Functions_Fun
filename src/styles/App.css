@@ -1,0 +1,55 @@
+*{
+  font: arial
+}
+
+.navBar{
+  width: 100%;
+  background: silver;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.mainContent{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.button{
+  background-color: #3d7eff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.footerBar{
+  width: 100%;
+  background: silver;
+  border-top: gray 1px solid;
+  color: gray;
+  padding: 5px 10px
+}
+
+.inputContainer{
+  padding: 0 0 10px 0;
+}
+
+.lengthyInput{
+  width: 100%;
+  font-size: 16px;
+  padding: 3px
+}
+
+.boxedResponse{
+  border: silver 1px solid;
+  padding: 20px
+}
+
+
+
+h4{
+  color: gray;
+}
